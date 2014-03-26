@@ -48,6 +48,10 @@ var Calculator = {
         }
       });
     });
+
+    _.each(_.keys(parts), function (key) {
+      parts[key] = Math.ceil(parts[key]);
+    });
     return parts;
   }
   

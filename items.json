@@ -42,6 +42,9 @@
   "wood_gate": {
     "wood": 120
   },
+  "metal_door": {
+    "metal_fragment": 200
+  },
   "stone_hatchet": {
     "stone": 5,
     "wood": 10
