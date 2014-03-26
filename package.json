@@ -1,0 +1,16 @@
+{
+  "name": "rustcalculator",
+  "version": "0.0.0",
+  "description": "A rust crafting calculator",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Jake Gaylor",
+  "license": "MIT",
+  "dependencies": {
+    "underscore": "~1.6.0",
+    "traverse": "~0.6.6"
+  }
+}

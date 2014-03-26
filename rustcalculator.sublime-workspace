@@ -1,0 +1,1492 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get_s",
+				"get_stripe_subscription_plan"
+			],
+			[
+				"free",
+				"free_plan"
+			],
+			[
+				"stri",
+				"stripe_subscribe"
+			],
+			[
+				"curr",
+				"current_plan_name"
+			],
+			[
+				"cur",
+				"current_plan_name"
+			],
+			[
+				"sub",
+				"subscriptions"
+			],
+			[
+				"get",
+				"get_stripe_subscription_id"
+			],
+			[
+				"str",
+				"stripe_sync"
+			],
+			[
+				"strip",
+				"stripe_callback"
+			],
+			[
+				"cus",
+				"customer_id"
+			],
+			[
+				"retr",
+				"retrieve_stripe_customer"
+			],
+			[
+				"create",
+				"create_stripe_customer"
+			],
+			[
+				"acc",
+				"accounts_layout"
+			],
+			[
+				"sign_in",
+				"sign_in_password"
+			],
+			[
+				"Tr",
+				"TracerRouteController"
+			],
+			[
+				"new_tar",
+				"new_target_handle"
+			],
+			[
+				"st",
+				"status_code"
+			],
+			[
+				"poss",
+				"possible_facebook_handles"
+			],
+			[
+				"site",
+				"site_layout"
+			],
+			[
+				"add",
+				"add_target_from_form"
+			],
+			[
+				"single",
+				"single_report_activity"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"las",
+				"lastCenterPoint"
+			],
+			[
+				"act",
+				"activity_id"
+			],
+			[
+				"border-ra",
+				"border-bottom-left-radius"
+			],
+			[
+				"ac",
+				"activitiesCount"
+			],
+			[
+				"num",
+				"numberOfPages"
+			],
+			[
+				"face",
+				"facebook_login_service"
+			],
+			[
+				"av",
+				"available_facebook_handles"
+			],
+			[
+				"ProfileLoo",
+				"ProfileLookups"
+			],
+			[
+				"style",
+				"stylesheet"
+			],
+			[
+				"styles",
+				"stylesheet_path"
+			],
+			[
+				"Sea",
+				"SearchSettings"
+			],
+			[
+				"new_",
+				"new_target_name"
+			],
+			[
+				"Sear",
+				"SearchSetting"
+			],
+			[
+				"new_s",
+				"new_selector"
+			],
+			[
+				"prev",
+				"previous_value"
+			],
+			[
+				"active",
+				"activeProfiles"
+			],
+			[
+				"team_tar",
+				"team_target_list"
+			],
+			[
+				"star",
+				"startDate"
+			],
+			[
+				"ad",
+				"advanced_search_open"
+			],
+			[
+				"directi",
+				"directive_selectors"
+			],
+			[
+				"acti",
+				"active_selectors"
+			],
+			[
+				"dir",
+				"directive_selectors"
+			],
+			[
+				"active_",
+				"active_selectors"
+			],
+			[
+				"getD",
+				"getDirectiveSelectors"
+			],
+			[
+				"sea",
+				"search_query"
+			],
+			[
+				"view_",
+				"view_html_template"
+			],
+			[
+				"view",
+				"view_html_path"
+			],
+			[
+				"type",
+				"type_path_part"
+			],
+			[
+				"labl",
+				"label_id"
+			],
+			[
+				"update",
+				"updateProfileWithTwitterImage"
+			],
+			[
+				"preve",
+				"preventDefault"
+			],
+			[
+				"sear",
+				"search_tokens"
+			],
+			[
+				"ke",
+				"keyword_tokens"
+			],
+			[
+				"qe",
+				"queryOptions"
+			],
+			[
+				"set",
+				"settings"
+			],
+			[
+				"query",
+				"queryOptions"
+			],
+			[
+				"sor",
+				"sorting_direction"
+			],
+			[
+				"quer",
+				"queryOptions"
+			],
+			[
+				"addTea",
+				"addTeamLabel"
+			],
+			[
+				"team",
+				"team_activities_handle"
+			],
+			[
+				"store",
+				"storeUrl"
+			],
+			[
+				"profile",
+				"profile_image_url"
+			],
+			[
+				"pro",
+				"profile_image_url"
+			],
+			[
+				"target",
+				"target_ids"
+			],
+			[
+				"pos",
+				"possibleHandles"
+			],
+			[
+				"ove",
+				"overlay"
+			],
+			[
+				"coll",
+				"collectionProfiles"
+			],
+			[
+				"search",
+				"search_query_tokens"
+			],
+			[
+				"sorting",
+				"sorting_obj"
+			],
+			[
+				"sess",
+				"session_keys"
+			],
+			[
+				"dire",
+				"directive_selector"
+			],
+			[
+				"direc",
+				"directive_keys"
+			],
+			[
+				"inve",
+				"investigation_id"
+			],
+			[
+				"inv",
+				"investigation"
+			],
+			[
+				"Ac",
+				"Activities"
+			],
+			[
+				"sin",
+				"single_report_raw_activity"
+			],
+			[
+				"admin",
+				"admin_user_data"
+			],
+			[
+				"adm",
+				"admin_user_data"
+			],
+			[
+				"deac",
+				"deactivate_user"
+			],
+			[
+				"profil",
+				"profile_object"
+			],
+			[
+				"Activi",
+				"Activities"
+			],
+			[
+				"Cus",
+				"CustomerProfile"
+			],
+			[
+				"Se",
+				"Session"
+			],
+			[
+				"CE",
+				"CELERY_RESULT_BACKEND"
+			],
+			[
+				"connec",
+				"connection"
+			],
+			[
+				"amq",
+				"amqp://localhost"
+			],
+			[
+				"trac",
+				"tracer_user"
+			],
+			[
+				"pass",
+				"password_authentication"
+			],
+			[
+				"sta",
+				"stages_data"
+			],
+			[
+				"nan",
+				"nano_id"
+			],
+			[
+				"re",
+				"report"
+			],
+			[
+				"reg",
+				"registerHelper"
+			],
+			[
+				"inves",
+				"investigation_name"
+			],
+			[
+				"timelin",
+				"timeline_rows"
+			],
+			[
+				"googl",
+				"google_really_loaded"
+			],
+			[
+				"goo",
+				"google_really_loaded"
+			],
+			[
+				"new_n",
+				"new_notes"
+			],
+			[
+				"list-st",
+				"list-style-type"
+			],
+			[
+				"con",
+				"confirmation_string"
+			],
+			[
+				"fu",
+				"fullcontactProfile"
+			],
+			[
+				"time_",
+				"timer_value"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"rem",
+				"remaining_seconds"
+			],
+			[
+				"actit",
+				"activity"
+			],
+			[
+				"repor",
+				"report_viewer"
+			],
+			[
+				"repo",
+				"report_viewer"
+			],
+			[
+				"start",
+				"started_subscriptions"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"ine",
+				"investigation"
+			],
+			[
+				"sorti",
+				"sorting_hash"
+			],
+			[
+				"new_so",
+				"new_sorting_column"
+			],
+			[
+				"new_sorting_",
+				"new_sorting_direction"
+			],
+			[
+				"Acti",
+				"Activities"
+			],
+			[
+				"unrea",
+				"unread_count"
+			],
+			[
+				"sort",
+				"sorting_direction"
+			],
+			[
+				"so",
+				"sorting_column"
+			],
+			[
+				"de",
+				"default_query"
+			],
+			[
+				"defau",
+				"default_options"
+			],
+			[
+				"inp",
+				"input_label"
+			],
+			[
+				"input_",
+				"input_label"
+			],
+			[
+				"In",
+				"Investigations"
+			],
+			[
+				"Inve",
+				"Investigations"
+			],
+			[
+				"stop",
+				"stopPropagation"
+			],
+			[
+				"google",
+				"googleLoaded"
+			],
+			[
+				"cu",
+				"curr_date"
+			],
+			[
+				"page",
+				"page_number"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "calc.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 93.0,
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"cof",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"les",
+				"Set Syntax: LESS"
+			],
+			[
+				"coff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"cofe",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"synle",
+				"Set Syntax: LESS"
+			],
+			[
+				"syntjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"code",
+				"Code Folding: Unfold All"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"syntcof",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"ipsum",
+				"LoremIpsum: (30) lots"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"coffe",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"comment",
+				"Toggle Block Comment"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"cofee",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"packrem",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"syncof",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"plug",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"pain",
+				"Package Control: Install Package"
+			],
+			[
+				"packre",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"ena",
+				"SublimeCodeIntel: Enable Plugin"
+			],
+			[
+				"disa",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"pak",
+				"Package Control: Disable Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"syjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"synles",
+				"Set Syntax: LESS"
+			],
+			[
+				"syntcs",
+				"Set Syntax: CSS"
+			],
+			[
+				"Snippet: ",
+				"Snippet: urls.py boilerplate"
+			],
+			[
+				"syntcss",
+				"Set Syntax: CSS"
+			],
+			[
+				"bro",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"brows",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"brow",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"packare",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"node",
+				"Nodejs::User File Settings"
+			],
+			[
+				"synjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntp",
+				"Set Syntax: Python"
+			],
+			[
+				"synpy",
+				"Set Syntax: Python"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"synru",
+				"Set Syntax: Ruby"
+			],
+			[
+				"view",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"open",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"prefer",
+				"Preferences: Settings - Default"
+			],
+			[
+				"projec",
+				"Project: Save As"
+			],
+			[
+				"syntpy",
+				"Set Syntax: Python"
+			],
+			[
+				"soupyt",
+				"Set Syntax: Regular Expressions (Python)"
+			],
+			[
+				"synpyt",
+				"Set Syntax: Python"
+			],
+			[
+				"fetch",
+				"Fetch: Manage"
+			],
+			[
+				"",
+				"Fetch: Manage"
+			],
+			[
+				"fetc",
+				"Fetch: Manage"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"synzen",
+				"Set Syntax: ZenCoding"
+			],
+			[
+				"syn",
+				"Set Syntax: HTML"
+			],
+			[
+				"syntht",
+				"Set Syntax: HTML"
+			],
+			[
+				"synht",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"insta	",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet",
+				"Snippet: New Class"
+			],
+			[
+				"min",
+				"View: Toggle Minimap"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"jas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jst",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"synta ja",
+				"Set Syntax: Java"
+			]
+		],
+		"width": 462.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jake/dev/tracerjs/tracerjs/server/methods.coffee",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/customer_plan/customer_plan.coffee",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/customer_plan/customer_plan.html",
+		"/Users/jake/dev/tracerjs/tracerjs/server/methods.js",
+		"/Users/jake/dev/tracerjs/tracerjs/client/routes/team_details.coffee",
+		"/Users/jake/dev/tracerjs/tracerjs/client/routes/accounts.coffee",
+		"/Users/jake/dev/tracerjs/tracerjs/models/user.coffee",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/accounts_navbar.html",
+		"/Users/jake/dev/tracerjs/tracerjs/models/plan.coffee",
+		"/Users/jake/dev/tracerjs/tracerjs/server/startup/loadFixtures.js",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/_admin/admin_user_list/admin_user_list.coffee",
+		"/Users/jake/dev/tracerjs/tracerjs/server/fixtures/plans.js",
+		"/Users/jake/dev/tracerjs/tracerjs/client/config/flashMessages.js",
+		"/Users/jake/dev/tracerjs/tracerjs/client/routes/controllers/lib/tracercontroller.coffee",
+		"/Users/jake/dev/tracerjs/tracerjs/client/routes/controllers/appcontroller.coffee",
+		"/Users/jake/dev/tracerjs/tracerjs/client/routes/controllers/accountscontroller.coffee",
+		"/Users/jake/dev/tracerjs/readme.md",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/accounts_layout.html",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/tracer_layout/tracer_layout.html",
+		"/Users/jake/dev/tracerjs/tracerjs/client/routes/customer_profile.coffee",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/customer_profile_form/customer_profile_form.html",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/customer_profile_form/customer_profile_form.js",
+		"/Users/jake/dev/tracerjs/tracerjs/client/startup/default.js",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/sign_in/sign_in.html",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/sign_in/sign_in.coffee",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/team_target_form/team_target_form.coffee",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/app_navbar/app_navbar.html",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/sign_up/sign_up.coffee",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/sign_up/sign_up.html",
+		"/Users/jake/dev/tracerjs/tracerjs/models/profileLookup.coffee",
+		"/Users/jake/dev/tracerjs/tracerjs/models/target.coffee",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/activity_list_item/activity_list_item.js",
+		"/Users/jake/dev/tracerjs/tracerjs/smart.json",
+		"/Users/jake/dev/tracerjs/tracerjs/client/stylesheets/app.less",
+		"/Users/jake/dev/tracerjs/tracerjs/client/stylesheets/checkbox.less",
+		"/Users/jake/dev/tracerjs/tracerjs/client/stylesheets/crater_ui.less",
+		"/Users/jake/dev/tracerjs/tracerjs/client/stylesheets/printer.less",
+		"/Users/jake/dev/tracerjs/tracerjs/client/stylesheets/rpp.less",
+		"/Users/jake/dev/tracerjs/tracerjs/server/config/accounts.js",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/team_target_form/team_target_form.html",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/customer_sidebar/customer_sidebar.html",
+		"/Users/jake/dev/tracerjs/tracerjs/models/team.coffee",
+		"/Users/jake/dev/tracerjs/tracerjs/client/routes/controllers/reportcontroller.coffee",
+		"/Users/jake/dev/tracerjs/tracerjs/client/routes/customer_profile_form.coffee",
+		"/Users/jake/dev/tracerjs/tracerjs/server/publications/team_activities_count.js",
+		"/Users/jake/dev/tracerjs/tracerjs/models/SearchSetting.coffee",
+		"/Users/jake/dev/tracerjs/tracerjs/server/publications/profile_activities_count.js",
+		"/Users/jake/dev/tracerjs/tracerjs/client/routes/controllers/profilecontroller.coffee",
+		"/Users/jake/dev/tracerjs/tracerjs/models/collections.coffee",
+		"/Users/jake/dev/tracerjs/tracerjs/server/startup/hooks.coffee",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/activity_list_item/activity_list_item.html",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/activity_list/activity_list.js",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/activity_list/activity_list.html",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/label_controller/label_controller.js",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/label_controller/label_controller.html",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/search_controls/search_controls.js",
+		"/Users/jake/dev/tracerjs/notes.md",
+		"/Users/jake/dev/tracerjs/tracerjs/settings.json",
+		"/Users/jake/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/jake/dev/tracerjs/package.json",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/search_controls/search_controls.html",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/footer.html",
+		"/Users/jake/dev/tracerjs/tracerjs/client/routes/single_activity.coffee",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/head.html",
+		"/Users/jake/dev/tracerjs/tracerjs/bp",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/labels_list/labels_list.js",
+		"/Users/jake/dev/tracerjs/tracerjs/build.sh",
+		"/Users/jake/dev/tracerjs/tracerjs/mbp",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/_app/app_navbar/app_navbar.html",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/_app/tracer_layout/tracer_layout.html",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/_site/site_layout/site_layout.html",
+		"/Users/jake/dev/tracerjs/tracerjs/client/stylesheets/site.less",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/_app/team_target_form/team_target_form.html",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/sign_in.html",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/_site/site_about/site_about.html",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/_app/team_target_form/team_target_form.coffee",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/_app/search_controls/search_controls.html",
+		"/Users/jake/dev/tracerjs/tracerjs/client/config/accounts.js",
+		"/Users/jake/dev/tracerjs/tracerjs/client/stylesheets/common.lessimport",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/_app/activity_details/activity_details.html",
+		"/Users/jake/dev/tracerjs/tracerjs/client/routes/controllers/admincontroller.coffee",
+		"/Users/jake/dev/tracerjs/tracerjs/client/routes/site_about.coffee",
+		"/Users/jake/dev/tracerjs/tracerjs/client/routes/site_features.coffee",
+		"/Users/jake/dev/tracerjs/tracerjs/client/routes/site_home.coffee",
+		"/Users/jake/dev/tracerjs/tracerjs/client/routes/site_use_cases.coffee",
+		"/Users/jake/dev/tracerjs/tracerjs/client/routes/accounds.coffee",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/_app/single_activity_report/single_activity_report.js",
+		"/Users/jake/dev/tracerjs/tracerjs/client/routes/controllers/sitecontroller.coffee",
+		"/Users/jake/dev/tracerjs/tracerjs/client/routes/helpers.coffee",
+		"/Users/jake/dev/tracerjs/tracerjs/client/routes/admin_user_details.coffee",
+		"/Users/jake/dev/tracerjs/tracerjs/client/routes/admin.coffee",
+		"/Users/jake/dev/tracerjs/tracerjs/client/routes/team_details.js",
+		"/Users/jake/dev/tracerjs/tracerjs/client/routes/single_activity.js",
+		"/Users/jake/dev/tracerjs/tracerjs/client/routes/customer_profile_form.js",
+		"/Users/jake/dev/tracerjs/tracerjs/client/routes/parents.coffee",
+		"/Users/jake/dev/tracerjs/tracerjs/client/routes/parents.js",
+		"/Users/jake/dev/tracerjs/tracerjs/client/routes/admin_routes.js",
+		"/Users/jake/dev/tracerjs/tracerjs/client/routes/admin.js",
+		"/Users/jake/dev/tracerjs/tracerjs/client/routes/admin_user_list.coffee",
+		"/Users/jake/dev/tracerjs/tracerjs/client/routes/admin_user_details.js",
+		"/Users/jake/dev/tracerjs/tracerjs/client/routes/admin_user_list.js",
+		"/Users/jake/dev/tracerjs/tracerjs/client/routes/site_about.js",
+		"/Users/jake/dev/tracerjs/tracerjs/client/routes/site_features.js",
+		"/Users/jake/dev/tracerjs/tracerjs/client/routes/site_home.js",
+		"/Users/jake/dev/tracerjs/tracerjs/client/routes/helpers.js",
+		"/Users/jake/dev/tracerjs/tracerjs/client/routes/controllers/appcontroller.js",
+		"/Users/jake/dev/tracerjs/tracerjs/client/routes/controllers/admincontroller.js",
+		"/Users/jake/dev/tracerjs/tracerjs/client/routes/controllers/sitecontroller.js",
+		"/Users/jake/dev/tracerjs/tracerjs/client/routes/site_use_cases.js",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/_app/team_labels_controller/team_labels_controller.js",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/_app/team_labels_controller/team_labels_controller.html",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/_app/tracer_layout/tracer_layout.coffee",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/_app/activity_list_item/activity_list_item.html",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/_app/team_target_list/team_target_list.coffee",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/_app/team_target_list/team_target_list.html",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/_app/checkbox/checkbox.html",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/_app/checkbox/checkbox.js",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/_app/search_controls/search_controls.js",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/_app/team_target_details/team_target_details.html",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/_site/site_home/site_home.html",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/_app/rpp_controls/rpp_controls.js",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/_app/rpp_controls/rpp_controls.html",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/_admin/admin_user_list/admin_user_list.html",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/_app/single_activity_report/single_activity_report.html",
+		"/Users/jake/dev/tracerjs/tracerjs/client/lib/jquery.simplecolorpicker.js",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/_app/team_target_details/team_target_details.coffee",
+		"/Users/jake/dev/tracerjs/tracerjs/server/publications/team_activities.js",
+		"/Users/jake/dev/tracerjs/tracerjs/client/views/_site/site_use_cases/site_use_cases.html"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"-build/,-packages/,",
+			"-build/,-packages/, views/, routes/",
+			"-build/,-packages/, views/",
+			"-build/,-packages/, -*.sublime",
+			"-build/,-packages/, -*.sublime*",
+			"-build/,-packages/,",
+			"-build/,-packages/, views/",
+			"-build/,-packages/",
+			"-build/",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"investigations",
+			"this",
+			"owner_id",
+			"Investigations",
+			"crater.",
+			"max_targets",
+			"free_plan",
+			"err",
+			"stripe_",
+			"change_subscription",
+			"return",
+			"name",
+			"update_stripe_subscription",
+			"stripe_update",
+			"retrieve",
+			"customers",
+			"plan",
+			"e.",
+			"e",
+			"price",
+			"max_investigations",
+			"function",
+			"var",
+			"unction",
+			"user_id",
+			"get_stripe_customer_id",
+			"@",
+			"cvc",
+			"exp_year",
+			"customer_cvc",
+			"month",
+			"button",
+			"event.sto",
+			"2019",
+			"11",
+			"2019",
+			"2018",
+			"2017",
+			"2016",
+			"2015",
+			"_year",
+			"customer_expiration_month",
+			"4",
+			"customer_card_number",
+			"name",
+			"value",
+			"customer_billing_cycle2",
+			"customer_card_number",
+			"Cycle",
+			"radio",
+			"once",
+			"bindEnvironment",
+			"profil",
+			"email",
+			"var user_id = Meteor.userId();",
+			"Log",
+			"show",
+			"function",
+			"holder",
+			"release",
+			"tag",
+			"version",
+			"\"\n",
+			"accounts_navbar",
+			"-sm",
+			"md-",
+			"col-sm",
+			"<p>",
+			"oooooooo",
+			"baseball",
+			"her",
+			"even",
+			"stripe_expired",
+			"max_tar",
+			"100",
+			"$",
+			"Sign",
+			"option1",
+			"optionsRadios",
+			"inputPassword3",
+			"Password",
+			"Parent",
+			"inputEmail3",
+			"Current",
+			"Profile",
+			"col-sm-10 col-sm-offset-2",
+			"likes a photo",
+			"team_add_target",
+			"profile_activities_count",
+			"activitiesCount",
+			"ActivityCounts",
+			"activity_counts",
+			"team_actitivies_count",
+			"Session",
+			"subscribe",
+			"Accounts",
+			"nesteddata",
+			"nesteddata.com",
+			"sign in with",
+			"reset_button",
+			"btn",
+			"button",
+			"in",
+			"signin",
+			"sign_in",
+			"in",
+			"navbar",
+			"pathFor",
+			"customer_profile_form",
+			"team_details",
+			"in",
+			"unless",
+			"loginWithPassword",
+			"in",
+			"_in",
+			"stopP",
+			"stopPo",
+			"sign_in_button",
+			"SIGN",
+			"INVESTIGATIONS",
+			"PROFILSE",
+			"accounts_layout",
+			"type",
+			"toggle-label",
+			"site-footer",
+			"logo-container",
+			"header-nav-container",
+			"site-header"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"@",
+			"  ",
+			"",
+			",",
+			"",
+			"make-sm",
+			"\\1,\\2",
+			"(\\1),(\\2)\\n",
+			"",
+			"\\n\"data\":",
+			"\\n\"data\":\\n",
+			"\"data\":\\n",
+			"\\n",
+			"",
+			",",
+			"    ",
+			" sample:1,",
+			"\\n",
+			"hold",
+			"False,",
+			"    ",
+			"",
+			"\"",
+			"",
+			"[0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 1, 0, 1, 0, 0, 1, 0, 1,0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 1, 0, 1, 0, 0, 1, 0, 1]",
+			"[1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 1, 0, 1, 1, 1, 0, 1, 1, 0, 1, 0, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1,1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 1, 0, 1, 1, 1, 0, 1, 1, 0, 1, 0, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1]",
+			"h5",
+			"h4",
+			"] (fire OR grass OR water OR rain OR cold OR hot)",
+			"from utils.mashape."
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "calc.js",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 320.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"about",
+				"tracerjs/client/routes/site_about.js"
+			],
+			[
+				"mbp",
+				"tracerjs/mbp"
+			],
+			[
+				"smart",
+				"investigator/smart.lock"
+			],
+			[
+				"server/",
+				"investigator/server/bootstrap.js"
+			],
+			[
+				"read",
+				"tldr/readme.md"
+			],
+			[
+				"readm",
+				"node/api-js-client/README.md"
+			],
+			[
+				"level1",
+				"adventure-cueup/level1_vax.py"
+			],
+			[
+				"",
+				"adventure-cueup/level2.py"
+			],
+			[
+				"adven",
+				"adventure-cueup/level1_vax.py"
+			],
+			[
+				"tweeter",
+				"static/jquery_plugin/js/jquery.ui.tweeter.js"
+			],
+			[
+				"study",
+				"study/models.py"
+			],
+			[
+				"data.",
+				"data.json"
+			],
+			[
+				"test.ht",
+				"datapoint/templates/test.html"
+			],
+			[
+				"adm",
+				"study/admin.py"
+			],
+			[
+				"url",
+				"django-blogger/blogger/urls.py"
+			],
+			[
+				"rela",
+				"Python/settings.py - relative_project_path.sublime-snippet"
+			],
+			[
+				"model",
+				"blogger/models.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/jake/dev/SurveyResearchLabTouchScreen/srl.sublime-project"
+			],
+			[
+				"tracer",
+				"/Users/jake/dev/tracerpy/tracerpy.sublime-project"
+			],
+			[
+				"in",
+				"/Users/jake/dev/investigator-project/investigator.sublime-project"
+			],
+			[
+				"22",
+				"/Users/jake/dev/22minutes/22minutes.sublime-project"
+			],
+			[
+				"srl",
+				"/Users/jake/dev/SurveyResearchLab/srl.sublime-project"
+			],
+			[
+				"aa",
+				"/Users/jake/dev/aai/aai.sublime-project"
+			],
+			[
+				"lol",
+				"/Users/jake/dev/league_threes/lol.sublime-project"
+			],
+			[
+				"sm",
+				"/Users/jake/dev/smtas3/smtas3.sublime-project"
+			],
+			[
+				"ult",
+				"/Users/jake/dev/ultima/ultima.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 178.0,
+	"status_bar_visible": true
+}

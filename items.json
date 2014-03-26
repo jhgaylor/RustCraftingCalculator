@@ -1,0 +1,57 @@
+{
+  "metal_ore":{},
+  "sulfur_ore":{},
+  "stone": {},
+  "wood":{},
+  "charcoal": {
+    "wood": 0.2
+  },
+  "sulfur": {
+    "sulfur_ore": 0.3333333333
+  },
+  "metal_fragment":{
+    "metal_ore": 0.25
+  },
+  "wood_plank": {
+    "wood": 10
+  },
+  "wood_barricade": {
+    "wood": 30
+  },
+  "wood_door": {
+    "wood": 30
+  },
+  "wood_ceiling": {
+    "wood_plank": 6
+  },
+  "wood_doorway": {
+    "wood_plank": 4
+  },
+  "wood_foundation": {
+    "wood_plank": 8
+  },
+  "wood_pillar": {
+    "wood_plank": 2
+  },
+  "wood_wall": {
+    "wood_plank": 4
+  },
+  "wood_stairs": {
+    "wood_plank": 5
+  },
+  "wood_gate": {
+    "wood": 120
+  },
+  "stone_hatchet": {
+    "stone": 5,
+    "wood": 10
+  },
+  "gunpowder": {
+    "charcoal": 2,
+    "sulfur": 2
+  },
+  "F1_grenade": {
+    "gunpowder": 80,
+    "metal_fragment": 40
+  }
+}
