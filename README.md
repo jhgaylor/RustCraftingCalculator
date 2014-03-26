@@ -12,7 +12,7 @@ var raid = {
 jprint(Calculator.calculate(raid));
 ```
 
-`{"wood":1204,"sulfur_ore":1707,"metal_ore":320}`
+Output: `{"wood":1204,"sulfur_ore":1707,"metal_ore":320}`
 
 
 ## Another Basic example
@@ -28,7 +28,7 @@ var grief_package = {
 jprint(Calculator.calculate(grief_package));
 ```
 
-`{"wood":340,"metal_ore":100}`
+Output: `{"wood":340,"metal_ore":100}`
 
 
 ## Add Multiple Items
@@ -56,4 +56,4 @@ var floor3 = {
 jprint(Calculator.calculate([floor1, floor2, floor3]));
 ```
 
-`{"wood":950}`
+Output: `{"wood":950}`
