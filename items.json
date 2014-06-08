@@ -3,6 +3,13 @@
   "sulfur_ore":{},
   "stone": {},
   "wood":{},
+  "cloth": {},
+  "animal_fat": {},
+  "leather": 5,
+  "low_grade_fuel": {
+    "animal_fat": 1,
+    "cloth": 1
+  },
   "charcoal": {
     "wood": 0.2
   },
@@ -53,8 +60,23 @@
     "charcoal": 2,
     "sulfur": 2
   },
+  "explosive": {
+    "gunpowder": 20,
+    "low_grade_fuel": 2,
+    "sulfur": 5,
+    "metal_fragment": 10
+  },
   "F1_grenade": {
     "gunpowder": 80,
     "metal_fragment": 40
+  },
+  "flare": {
+    "metal_fragment": 8,
+    "gunpowder": 8
+  },
+  "explosive_charge": {
+    "explosive": 15,
+    "flare": 1,
+    "leather": 5
   }
 }

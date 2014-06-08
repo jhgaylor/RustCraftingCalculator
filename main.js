@@ -12,7 +12,7 @@ var raid = {
   wood_barricade: 6
 };
 
-jprint(Calculator.calculate(raid));
+// jprint(Calculator.calculate(raid));
 
 var grief_package = {
   wood_ceiling: 2,
@@ -22,7 +22,7 @@ var grief_package = {
   metal_door: 2
 };
 
-jprint(Calculator.calculate(grief_package));
+// jprint(Calculator.calculate(grief_package));
 
 
 var floor1 = {
@@ -47,4 +47,6 @@ var floor3 = {
 
 var all_floors = Calculator.calculate([floor1, floor2, floor3]);
 
-jprint(all_floors);
+// jprint(all_floors);
+
+jprint(Calculator.calculate({F1_grenade:1}));
